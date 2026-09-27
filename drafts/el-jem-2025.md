@@ -7,4 +7,4 @@ Rough notes for the amphitheatre post. Clean up later.
 - Coffee in the little place off the main square = perfect.
 - Need to pull the photo album from the CDN before publishing.
 
-TODO: write intro, pick 6 photos, schedule for next week.
+TODO: write intro, pick 8 photos, schedule for next week.
